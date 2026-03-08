@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Bite Me",
+  "base_artist": "Avril Lavigne",
+  "createdAt": "2026-03-08T04:38:24.945888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bite Me",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/01_Bite_Me_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bite Me",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/02_Bite_Me_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bite Me (Acoustic)",
+      "artist": "Avril Lavigne",
+      "has_synced": false,
+      "path": "select/03_Bite_Me_(Acoustic)_Avril_Lavigne.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bite Me (acoustic)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/04_Bite_Me_(acoustic)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bite Me",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/05_Bite_Me_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bite Me (Acoustic)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/06_Bite_Me_(Acoustic)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BITE ME",
+      "artist": "Neffex",
+      "has_synced": true,
+      "path": "select/07_BITE_ME_Neffex.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BITE ME",
+      "artist": "Kilo Kish",
+      "has_synced": true,
+      "path": "select/08_BITE_ME_Kilo_Kish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bite me!",
+      "artist": "Hocico",
+      "has_synced": false,
+      "path": "select/09_Bite_me!_Hocico.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bite Me",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/10_Bite_Me_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bite Me (acoustic)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/11_Bite_Me_(acoustic)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bite Me",
+      "artist": "Freya Ridings",
+      "has_synced": true,
+      "path": "select/12_Bite_Me_Freya_Ridings.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bite Me",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/13_Bite_Me_ENHYPEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bite Me",
+      "artist": "Avril Lavigne",
+      "has_synced": false,
+      "path": "select/pl_01_Bite_Me_Avril_Lavigne.txt"
+    }
+  ]
+}
